@@ -277,14 +277,19 @@ I'm going to use SparkSQL to query directly in warehouse
 
 Join the necessary tables to draw the map
 
-<img width="644" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/347bb30f-dfbc-404d-b746-158495525317">
+<img width="648" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/5b950616-7978-4446-b14b-cba964194497">
 
-<img width="769" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/4d1d4c58-eafc-42fd-8fd8-1cdf1586912d">
+Creating map
 
-<img width="997" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/3352b351-7a41-48ea-a592-dbbf80c8ba80">
+<img width="799" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/bd268095-08b1-4801-bb44-18315c9c2ba6">
 
-<img width="995" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/2745c3db-d0d6-483a-a0f7-1d22274bdac9">
+Result
+
+![image](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/blob/main/assets/map_covid19.png)
+
+![image](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/blob/main/assets/map_covid2.png)
 
 
 #### This project helped me to understand better how ETL process works and have experience to build ETL Pipeline, Data Warehouse Thanks for reading my project!!!
+
 
