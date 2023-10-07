@@ -248,10 +248,6 @@ Last, Trigger dag to run
 
 ![image](https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/blob/main/assets/output-airflow.png)
 
-Result in warehouse
-
-<img width="1373" alt="image" src="https://github.com/nguyennamde/ETL-Project-Covid-19-Data-Analysis/assets/95016684/0f80c943-0682-44bf-9e9a-613d7988792b">
-
 ### Adding Unit Test to Pipeline
 
 Write python script to test dag airflow
