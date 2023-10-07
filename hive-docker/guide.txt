@@ -1,0 +1,18 @@
+# create user and grant privileges
+
+create user "hiveuser"@"%" identified by "nguyennam";
+grant all privileges on *.* to "hiveuser"@"%";
+
+# initialize schema for mysql
+
+schematool -initSchema --dbType mysql
+
+# run hiveserver2 in background
+
+nohup hiveserver2 &
+
+# run metastore in background
+
+nohup hive --service metastore &
+
+Note: Dont put hive.metastore.uris in file hive-site.xml of hive

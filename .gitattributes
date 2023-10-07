@@ -1,0 +1,3 @@
+*.py linguist-language=Python
+Dockerfile linguist-language=Docker
+*.ipynb linguist-language=Jupyter Notebook
